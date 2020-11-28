@@ -37,4 +37,4 @@
 - fixed your loyal units not getting 3 traits as intended
 - made Faerie Sprites recruitable
 - #### heavily modified the AI for a more optimised boss experienced
-  - Credit goes to mattsc for his MAI and sevu for suggesting how to apply the lurkers AI here 
+  - Credit goes to mattsc for the MAI and sevu for suggesting how to apply the lurkers MAI here 
