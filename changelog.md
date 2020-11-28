@@ -36,5 +36,5 @@
 - Updated map for 1.15.x terrain (current version will not work for 1.14.x)
 - fixed your loyal units not getting 3 traits as intended
 - made Faerie Sprites recruitable
-- #### heavily modified the AI for a more optimised boss experienced
+- #### heavily modified the AI for a more optimised boss experience
   - Credit goes to mattsc for the MAI and sevu for suggesting how to apply the lurkers MAI here 
