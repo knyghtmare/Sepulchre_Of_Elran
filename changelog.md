@@ -38,3 +38,9 @@
 - made Faerie Sprites recruitable
 - #### heavily modified the AI for a more optimised boss experience
   - Credit goes to mattsc for the MAI and sevu for suggesting how to apply the lurkers MAI here 
+
+### version 1.0.12
+- Lins Elen elves have their own custom shade of color now
+- Gave your loyal events a death event (should you lose them)
+- Buffed some enemy leaders (since almost all of them get wrecked by a Sylph or Enchantress)
+- Added some new units introduced in WoL
