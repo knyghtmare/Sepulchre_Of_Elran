@@ -44,3 +44,5 @@
 - Gave your loyal events a death event (should you lose them)
 - Buffed some enemy leaders (since almost all of them get wrecked by a Sylph or Enchantress)
 - Added some new units introduced in WoL
+- enemies now get starting villages
+- Fixed Dark Woses being of "misc" race
