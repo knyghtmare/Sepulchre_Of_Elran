@@ -46,3 +46,4 @@
 - Added some new units introduced in WoL
 - enemies now get starting villages
 - Fixed Dark Woses being of "misc" race
+- Changed Undead to Nightmares and Outlaws
