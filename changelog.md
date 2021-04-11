@@ -47,3 +47,4 @@
 - enemies now get starting villages
 - Fixed Dark Woses being of "misc" race
 - Changed Undead to Nightmares and Outlaws
+- Allowed the questionable tactic "tinkerbell meta" to be used
