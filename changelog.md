@@ -48,3 +48,4 @@
 - Fixed Dark Woses being of "misc" race
 - Changed Undead to Nightmares and Outlaws
 - Allowed the questionable tactic "tinkerbell meta" to be used
+- Added 3 Easter Eggs (not telling what)
