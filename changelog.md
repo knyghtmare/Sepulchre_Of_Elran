@@ -49,3 +49,6 @@
 - Changed Undead to Nightmares and Outlaws
 - Allowed the questionable tactic "tinkerbell meta" to be used
 - Added 3 Easter Eggs (not telling what)
+
+### version 1.0.13
+- updated to 1.16.x server 
