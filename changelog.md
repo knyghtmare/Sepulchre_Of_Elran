@@ -55,3 +55,6 @@
 
 ### version 1.0.14
 - Maintenance patch
+
+### version 1.0.15
+- Maintenance patch
