@@ -19,7 +19,7 @@ msgstr ""
 
 #. [part]
 #: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:20
-msgid "During an ancient era, the elves were once ruled by a warlock named Elran. For an elf, this individual was masterfully skilled in swordplay, magic, politics, and military tactics. King Elran's intelligence and tactical knowledge was one of the key reasons that allowed the first Alliance of Irdya to triumph over the Chaplain of Darkness. After the war had concluded, he was granted absolute sovereignty over the woodland regions of the world. He ruled his people for many centuries until his death and was buried inside a subterranean crypt near the southern border of Lintair Forest."
+msgid "During an ancient era, the elves were once ruled by a warlock named Elran. For an elf, this individual was masterfully skilled in swordplay, magic, politics, and military tactics. King Elran's intelligence and tactical knowledge was one of the key reasons that allowed the first Alliance of Irdya to triumph over the Chaplain of Darkness. After the war had concluded, he was granted absolute sovereignty over the woodland regions of the world. He ruled his people for many centuries until his death and was buried inside a subterranean crypt near the southern border of Lintanir Forest."
 msgstr ""
 
 #. [part]
@@ -431,7 +431,7 @@ msgstr ""
 
 #. [campaign]: id=Sepulchre_of_Elran
 #: Sepulchre_of_Elran/_main.cfg:44
-msgid "Elran was the first King of the Lintair Elves and a renowned hero among them. Now, reports of undead sightings near his sarcophagus have caused the High Council of Elves to send a detachment of soldiers under the command of an aspiring sorceress in order to investigate. What shall they find inside?"
+msgid "Elran was the first King of the Lintanir Elves and a renowned hero among them. Now, reports of undead sightings near his sarcophagus have caused the High Council of Elves to send a detachment of soldiers under the command of an aspiring sorceress in order to investigate. What shall they find inside?"
 msgstr ""
 
 #. [campaign]: id=Sepulchre_of_Elran

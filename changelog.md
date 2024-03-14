@@ -78,3 +78,7 @@
 ### version 1.0.16
 
 - Fix loyal units having 2 loyal traits
+
+### version 1.0.17
+
+- typo fix: `Lintair` -> `Lintanir`
