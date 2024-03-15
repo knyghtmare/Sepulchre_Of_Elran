@@ -82,3 +82,4 @@
 ### version 1.0.17
 
 - typo fix: `Lintair` -> `Lintanir`
+- update enemy types
