@@ -85,4 +85,3 @@
 - update enemy types
 - rebalance scenario
 - enhance map appearance
-- 
