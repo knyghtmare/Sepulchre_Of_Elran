@@ -83,3 +83,6 @@
 
 - typo fix: `Lintair` -> `Lintanir`
 - update enemy types
+- rebalance scenario
+- enhance map appearance
+- 
