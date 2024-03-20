@@ -86,3 +86,7 @@
 - rebalance scenario
 - enhance map appearance
 - added achievements
+
+### version 1.0.17.4
+
+- updated .pot file
