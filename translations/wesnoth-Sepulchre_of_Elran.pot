@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-04-11 13:24 UTC\n"
+"POT-Creation-Date: 2024-03-20 04:21 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,40 +10,157 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. [scenario]: id=01_Sepulchre_of_Elran, type=Elvish Ranger,Elvish Marksman,Elvish Sharpshooter,Elvish Avenger
 #. [campaign]: id=Sepulchre_of_Elran
+#. [scenario]: id=01_Sepulchre_of_Elran
+#: Sepulchre_of_Elran/_main.cfg:29
 #: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:5
-#: Sepulchre_of_Elran/_main.cfg:31
 msgid "Sepulchre of Elran"
 msgstr ""
 
+#. [campaign]: id=Sepulchre_of_Elran
+#: Sepulchre_of_Elran/_main.cfg:30
+msgid "SoE"
+msgstr ""
+
+#. [campaign]: id=Sepulchre_of_Elran
+#: Sepulchre_of_Elran/_main.cfg:42
+msgid "Elran was the first King of the Lintanir Elves and a renowned hero among them. Now, reports of undead sightings near his sarcophagus have caused the High Council of Elves to send a detachment of soldiers under the command of an aspiring sorceress in order to investigate. What shall they find inside?"
+msgstr ""
+
+#. [campaign]: id=Sepulchre_of_Elran
+#: Sepulchre_of_Elran/_main.cfg:42
+msgid ""
+"\n"
+"(Single-Scenario Campaign, Intermediate Level)"
+msgstr ""
+
+#. [campaign]: id=Sepulchre_of_Elran
+#: Sepulchre_of_Elran/_main.cfg:45
+msgid "Initiate"
+msgstr ""
+
+#. [campaign]: id=Sepulchre_of_Elran
+#: Sepulchre_of_Elran/_main.cfg:45
+msgid "Normal"
+msgstr ""
+
+#. [campaign]: id=Sepulchre_of_Elran
+#: Sepulchre_of_Elran/_main.cfg:46
+msgid "Sorceress"
+msgstr ""
+
+#. [campaign]: id=Sepulchre_of_Elran
+#: Sepulchre_of_Elran/_main.cfg:46
+msgid "Challenging"
+msgstr ""
+
+#. [campaign]: id=Sepulchre_of_Elran
+#: Sepulchre_of_Elran/_main.cfg:47
+msgid "Mystic"
+msgstr ""
+
+#. [campaign]: id=Sepulchre_of_Elran
+#: Sepulchre_of_Elran/_main.cfg:47
+msgid "Difficult"
+msgstr ""
+
+#. [campaign]: id=Sepulchre_of_Elran
+#: Sepulchre_of_Elran/_main.cfg:49
+msgid "The End"
+msgstr ""
+
+#. [about]
+#: Sepulchre_of_Elran/about.cfg:4
+msgid "Author"
+msgstr ""
+
+#. [achievement]: id=elran_achievements_scenario
+#: Sepulchre_of_Elran/achievements.cfg:14
+msgid "Whispers Laid to Rest"
+msgstr ""
+
+#. [achievement]: id=elran_achievements_scenario
+#: Sepulchre_of_Elran/achievements.cfg:15
+msgid "Deep within the whispering woods at the northern edge of Lintanir, you ventured into the hallowed tomb of Elran, the first king. Through courage and cunning, you brought peace to his restless spirit, ensuring his slumber echoes undisturbed throughout eternity."
+msgstr ""
+
+#. [achievement]: id=elran_achievements_vampire
+#: Sepulchre_of_Elran/achievements.cfg:24
+msgid "Broken Slumber"
+msgstr ""
+
+#. [achievement]: id=elran_achievements_vampire
+#: Sepulchre_of_Elran/achievements.cfg:25
+msgid "Deep within Elran's mausoleum, you unearthed a creature ill-suited for such hallowed halls. With swift action, you banished the slumbering vampire, ensuring the tomb's sanctity remained unbroken."
+msgstr ""
+
+#. [achievement]: id=elran_achievements_faerie
+#: Sepulchre_of_Elran/achievements.cfg:35
+msgid "Oakborne Faerie"
+msgstr ""
+
+#. [achievement]: id=elran_achievements_faerie
+#: Sepulchre_of_Elran/achievements.cfg:36
+msgid "Guiding whispers, carried on the wind, led you to a secret chamber within Elran's mausoleum. Bathed in an ethereal glow, a mighty oak stood guard. Resting within its embrace, you discovered a slumbering faerie, a creature of magic and legend."
+msgstr ""
+
+#. [achievement]: id=elran_achievements_longbow
+#: Sepulchre_of_Elran/achievements.cfg:46
+msgid "Legacy of the Lintanir Guard"
+msgstr ""
+
+#. [achievement]: id=elran_achievements_longbow
+#: Sepulchre_of_Elran/achievements.cfg:47
+msgid "Within the shadows of Elran's tomb, you unearthed the legendary Longbow of the Royal Lintanir Guards, a testament to the forest's forgotten protectors."
+msgstr ""
+
+#. [achievement]: id=elran_achievements_wose
+#: Sepulchre_of_Elran/achievements.cfg:57
+msgid "A Blight Cleansed"
+msgstr ""
+
+#. [achievement]: id=elran_achievements_wose
+#: Sepulchre_of_Elran/achievements.cfg:58
+msgid "A twisted mockery of life lurked within Elran's hallowed halls. With unwavering resolve, you confronted this corrupted ancient wose, a blight upon the mausoleum's sanctity. Through your actions, you cleansed the entity, restoring peace to the resting place of the first king."
+msgstr ""
+
+#. [achievement]: id=elran_achievements_scenario_hard
+#: Sepulchre_of_Elran/achievements.cfg:68
+msgid "Whispers Laid to Rest (Elite)"
+msgstr ""
+
+#. [achievement]: id=elran_achievements_scenario_hard
+#: Sepulchre_of_Elran/achievements.cfg:69
+msgid "In the forgotten depths of the northern Lintanir, you faced the wrathful spirit of Elran, the first king. Through unparalleled courage and strategic brilliance, you vanquished the restless entity, ensuring his slumber remains undisturbed for all eternity."
+msgstr ""
+
 #. [part]
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:20
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:21
 msgid "During an ancient era, the elves were once ruled by a warlock named Elran. For an elf, this individual was masterfully skilled in swordplay, magic, politics, and military tactics. King Elran's intelligence and tactical knowledge was one of the key reasons that allowed the first Alliance of Irdya to triumph over the Chaplain of Darkness. After the war had concluded, he was granted absolute sovereignty over the woodland regions of the world. He ruled his people for many centuries until his death and was buried inside a subterranean crypt near the southern border of Lintanir Forest."
 msgstr ""
 
 #. [part]
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:24
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:25
 msgid "Centuries pass and the elves continue with their existence. Thirty-six years after the founding of the Wesnothian Kingdom, the High Elven Council receives a message from one of their southern border outposts about nightmarish creature sightings near the tomb of their once mighty king. Fearful of the desecration of the remains of the elven dead, the council sends Gioviel, an aspiring sorceress, and a detachment of elven soldiers to investigate and purge out the nightmares."
 msgstr ""
 
 #. [part]
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:28
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:29
 msgid "After a day of rigorous marching, Gioviel and her soldiers pitch camp inside the dark and eerie sarcophagus..."
 msgstr ""
 
-#. [side]: id=Gioviel, type=Elvish Ascetic
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:35
+#. [side]: id=Gioviel, type=Elvish Mystic
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:37
 msgid "Lady Gioviel"
 msgstr ""
 
-#. [side]: id=Gioviel, type=Elvish Ascetic
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:54
+#. [side]: id=Gioviel, type=Elvish Mystic
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:55
 msgid "Lins-Elen"
 msgstr ""
 
 #. [unit]: id=Soniel
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:66
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:67
 msgid "Soniel"
 msgstr ""
 
@@ -58,79 +175,79 @@ msgid "Oh, no! I have failed my mission!"
 msgstr ""
 
 #. [message]: speaker=Gioviel
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:123
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:125
 msgid "Farewell, $unit.name. Your loyal service shall not be forgotten."
 msgstr ""
 
 #. [side]: id=Undead_Elran, type=Elvish Forefather
 #. [side]: id=Spectre, type=Elvish Forefather
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:140
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:144
 #: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:346
 msgid "Undead"
 msgstr ""
 
 #. [side]: id=Undead_Elran, type=Elvish Forefather
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:142
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:146
 msgid "High King Elran"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:187
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:192
 msgid "Thank you, my children...For freeing me..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:192
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:197
 msgid "<i>The spectral personification of their legendary king disintegrates into thin air.</i>"
 msgstr ""
 
 #. [message]
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:212
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:218
 msgid "Milady, look! They have summoned the spirit of King Elran! What should we do?"
 msgstr ""
 
 #. [message]: speaker=Gioviel
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:217
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:223
 msgid "Let's put him to rest once more. Onwards!"
 msgstr ""
 
 #. [side]: id=Enemy_Commander, type=Shadow Lord
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:224
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:231
 msgid "Raider"
 msgstr ""
 
 #. [side]: id=Enemy_Commander, type=Shadow Lord
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:226
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:233
 msgid "Dread-lord Lenkester"
 msgstr ""
 
 #. [message]: speaker=Enemy_Commander
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:260
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:270
 msgid "I commend you on your valour, elves. I am impressed at how you have managed to reach me. However, your deaths are imminent and your corpses will be raised to join the army of the glorious Dark Elementalist."
 msgstr ""
 
 #. [message]: speaker=Gioviel
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:264
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:274
 msgid "I do not know of this dark elementalist you speak of but one thing is certain, abomination. You shall be destroyed for desecrating these ruins."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:276
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:287
 msgid "Forgive me, Master. I have failed you!"
 msgstr ""
 
 #. [message]
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:298
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:310
 msgid "Milady, look! The passage to the main burial chamber has suddenly opened!"
 msgstr ""
 
 #. [message]: speaker=Gioviel
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:303
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:315
 msgid "Let's investigate but, be cautious for there may be more enemies inside."
 msgstr ""
 
 #. [side]: id=Blood_Leader, type=Vampire Duelist
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:376
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:375
 msgid "Vampires"
 msgstr ""
 
@@ -144,171 +261,186 @@ msgstr ""
 msgid "Vampires?! Here?! Obliterate them with faerie fire at once!"
 msgstr ""
 
-#. [side]: id=Summoner, type=Shadow Mage
+#. [side]: id=Summoner, type=Arcane Enforcer
 #. [side]: id=Ghost, type=Death Spectre
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:423
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:506
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:424
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:511
 msgid "Nightmares"
 msgstr ""
 
-#. [side]: id=Summoner, type=Shadow Mage
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:425
+#. [side]: id=Summoner, type=Arcane Enforcer
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:426
 msgid "Mak Jalal"
 msgstr ""
 
 #. [message]: speaker=Summoner
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:459
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:462
 msgid "Elves? Here? Attack!"
 msgstr ""
 
 #. [message]: speaker=Gioviel
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:464
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:467
 msgid "Destroy them! They must not be allowed to continue the sacrilege of the crypt!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:477
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:481
 msgid "You think that I am the only dark wizard here? My master is already inside!"
 msgstr ""
 
 #. [message]: speaker=Gioviel
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:499
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:503
 msgid "Let's proceed further into the mausoleum and eliminate any more of these abominations."
 msgstr ""
 
 #. [side]: id=Ancient Dark One, type=Ancient Dark Wose
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:532
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:538
 msgid "Corrupted Forest"
 msgstr ""
 
 #. [message]
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:566
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:573
 msgid "Milady, look!"
 msgstr ""
 
 #. [message]: speaker=Gioviel
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:571
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:578
 msgid "I am appalled to see that the ancient sentinels of this mausoleum have been corrupted like this! We must liberate them!"
 msgstr ""
 
+#. [message]: speaker=Gioviel
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:592
+msgid "The woses here only did their duty and yet the malignant darkness slowly corrupted them. I do hope that they can now have their eternal rest."
+msgstr ""
+
 #. [side]
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:579
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:607
 msgid "Aberrants"
 msgstr ""
 
 #. [objective]: condition=win
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:652
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:681
 msgid "Find and obliterate the source of the nightmares"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:656
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:685
 msgid "Death of Lady Gioviel"
 msgstr ""
 
 #. [message]
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:687
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:716
 msgid "Milady, we have arrived inside the crypt and our soldiers await your orders."
 msgstr ""
 
 #. [message]: speaker=Gioviel
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:691
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:720
 msgid "Our main task is to find the source of these nightmares and annihilate it. The council was quite direct on this order. Hence, let's proceed with caution."
 msgstr ""
 
 #. [message]
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:696
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:725
 msgid "AMLA System"
 msgstr ""
 
 #. [message]
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:697
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:726
 msgid "When units reach their maximum level, they will be given access to special AMLA. Right-click on any maximum level unit to view available AMLA."
 msgstr ""
 
 #. [message]: speaker=Gioviel
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:706
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:736
 msgid "Let's return to the Lins-Elen. The Council must be informed of these developments in the hope that they may be able to amass an army to combat the forces of this so-called 'Dark Elementalist.'"
 msgstr ""
 
 #. [message]: speaker=Gioviel
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:724
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:767
 msgid "Oh, no! The nightmares have overwhelmed us!"
 msgstr ""
 
 #. [event]
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:755
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:798
 msgid "Myrian"
 msgstr ""
 
 #. [message]: speaker=Myrian
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:764
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:807
 msgid "<i>(yawning)</i>"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:769
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:812
 msgid "Wait, who are you? More importantly, what are you doing here?"
 msgstr ""
 
 #. [message]: speaker=Myrian
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:774
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:817
 msgid "My name is Myrian. I was wondering around the forest and stumbled upon this grotto and enchanted tree. I liked it here so much that I decided to make it my new home. The tranquility here is spellbinding. I like it."
 msgstr ""
 
 #. [message]: speaker=Gioviel
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:779
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:822
 msgid "I am Lady Gioviel of the Lins Elen. Do you wish to join us in our investigation of the mausoleum?"
 msgstr ""
 
 #. [message]: speaker=Myrian
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:784
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:827
 msgid "Count me in! It is high time I have had some exploration!"
 msgstr ""
 
-#. [scenario]: id=01_Sepulchre_of_Elran, type=Elvish Ranger,Elvish Marksman,Elvish Sharpshooter,Elvish Avenger
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:791
-msgid "$unit.name finds an ancient bow of elvish craftsmanship. The markings engraved on it suggest it had once belonged to one of the Royal Guards of King Elran. Should he pick it up?"
+#. [message]: speaker=narrator
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:866
+msgid "$unit.name finds an ancient bow of elvish craftsmanship. The markings engraved on it suggest it had once belonged to one of the Royal Guards of King Elran. Should they pick it up?"
 msgstr ""
 
-#. [scenario]: id=01_Sepulchre_of_Elran, type=Elvish Ranger,Elvish Marksman,Elvish Sharpshooter,Elvish Avenger
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:792
+#. [option]
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:870
 msgid "bow_of_the_elven_royal^Take it"
 msgstr ""
 
-#. [scenario]: id=01_Sepulchre_of_Elran, type=Elvish Ranger,Elvish Marksman,Elvish Sharpshooter,Elvish Avenger
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:793
-msgid "bow_of_the_elven_royal^Leave it"
-msgstr ""
-
-#. [scenario]: id=01_Sepulchre_of_Elran, type=Elvish Ranger,Elvish Marksman,Elvish Sharpshooter,Elvish Avenger
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:794
-msgid "$unit.name finds an ancient bow of elvish craftsmanship. The markings engraved on it suggest it had once belonged to one of the Royal Guards of King Elran. Only an experienced Elvish Archer may wield such a weapon."
-msgstr ""
-
 #. [object]
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:796
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:874
 msgid "Bow of the Elven Royal"
 msgstr ""
 
 #. [object]
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:798
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:876
 msgid "This bow grants the wearer +20% ranged damage!"
 msgstr ""
 
+#. [option]
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:912
+msgid "bow_of_the_elven_royal^Leave it"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:932
+msgid "$unit.name finds an ancient bow of elvish craftsmanship. The markings engraved on it suggest it had once belonged to one of the Royal Guards of King Elran. Only an experienced Elvish Archer may wield such a weapon."
+msgstr ""
+
 #. [event]
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:850
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:989
 msgid "Marximilian"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:859
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:998
 msgid "Oh, no! A vampire!"
 msgstr ""
 
 #. [message]: speaker=Marximilian
-#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:864
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:1003
 msgid "You are going to pay for interrupting my slumber!"
+msgstr ""
+
+#. [message]
+#: Sepulchre_of_Elran/scenarios/Sepulchre_of_Elran.cfg:1018
+msgid "Good riddance!"
+msgstr ""
+
+#. [color_range]: id=lins_elen_green
+#: Sepulchre_of_Elran/team_colors.cfg:6
+msgid "Lins-Elen Green"
 msgstr ""
 
 #. [unit_type]: id=Ancient Dark Wose, race=wose
@@ -322,9 +454,9 @@ msgid "Give a description, something dark and evil."
 msgstr ""
 
 #. [attack]: type=impact
-#: Sepulchre_of_Elran/units/monsters/Ancient_Dark_Wose.cfg:91
-#: Sepulchre_of_Elran/units/monsters/Dark_Wose.cfg:29
-#: Sepulchre_of_Elran/units/monsters/Elder_Dark_Wose.cfg:90
+#: Sepulchre_of_Elran/units/monsters/Ancient_Dark_Wose.cfg:90
+#: Sepulchre_of_Elran/units/monsters/Dark_Wose.cfg:28
+#: Sepulchre_of_Elran/units/monsters/Elder_Dark_Wose.cfg:89
 msgid "crush"
 msgstr ""
 
@@ -346,6 +478,29 @@ msgstr ""
 #. [unit_type]: id=Elder Dark Wose, race=wose
 #: Sepulchre_of_Elran/units/monsters/Elder_Dark_Wose.cfg:16
 msgid "Give me a description please."
+msgstr ""
+
+#. [race]: id=elvish_spirits
+#: Sepulchre_of_Elran/units/undead.cfg:5
+msgid "race^Elvish Spirit"
+msgstr ""
+
+#. [race]: id=elvish_spirits
+#: Sepulchre_of_Elran/units/undead.cfg:6
+msgid "race+female^Elvish Spirit"
+msgstr ""
+
+#. [race]: id=elvish_spirits
+#: Sepulchre_of_Elran/units/undead.cfg:7
+msgid "race^Elvish Spirits"
+msgstr ""
+
+#. [race]: id=elvish_spirits
+#: Sepulchre_of_Elran/units/undead.cfg:8
+msgid ""
+"Many mighty elven warriors of ancient have died in such a way that their desire of fighting for a last time is not fulfilled. Thus, their souls cannot rest in peace forever, and seek to return to this world for getting their thirst quenched with a last glorious confrontation.\n"
+"\n"
+"However, they usually cannot do so without help of necromancy. Since elves have always been opposed to allowing necromancy and their practitioners amongst their people, their ancestors have not had the opportunity to return to assist their kind, till now."
 msgstr ""
 
 #. [unit_type]: id=Elvish Ancestor, race=elvish_spirits
@@ -389,90 +544,5 @@ msgstr ""
 #. [unit_type]: id=Elvish Warrior Spirit, race=elvish_spirits
 #: Sepulchre_of_Elran/units/undead/Elvish_Spirit_Warrior.cfg:44
 msgid "The greatest elvish warriors of times past are not completely gone, for they consider even death no obstacle to them. They will roam the forests which formerly served as their homes, wandering through both their memories and the mortal plane of which they inhabit. Their recollections of glorious battles and wars, conquests and defeats, cause them to eternally seek a chance to perform those same feats once again. Indeed, this is not difficult, for they can strike the utmost terror into their foes, sometimes even causing death."
-msgstr ""
-
-#. [race]: id=elvish_spirits
-#: Sepulchre_of_Elran/units/undead.cfg:5
-msgid "race^Elvish Spirit"
-msgstr ""
-
-#. [race]: id=elvish_spirits
-#: Sepulchre_of_Elran/units/undead.cfg:6
-msgid "race+female^Elvish Spirit"
-msgstr ""
-
-#. [race]: id=elvish_spirits
-#: Sepulchre_of_Elran/units/undead.cfg:7
-msgid "race^Elvish Spirits"
-msgstr ""
-
-#. [race]: id=elvish_spirits
-#: Sepulchre_of_Elran/units/undead.cfg:8
-msgid ""
-"Many mighty elven warriors of ancient have died in such a way that their desire of fighting for a last time is not fulfilled. Thus, their souls cannot rest in peace forever, and seek to return to this world for getting their thirst quenched with a last glorious confrontation.\n"
-"\n"
-"However, they usually cannot do so without help of necromancy. Since elves have always been opposed to allowing necromancy and their practitioners amongst their people, their ancestors have not had the opportunity to return to assist their kind, till now."
-msgstr ""
-
-#. [about]
-#: Sepulchre_of_Elran/about.cfg:4
-msgid "Author"
-msgstr ""
-
-#. [color_range]: id=lins_elen_green
-#: Sepulchre_of_Elran/team_colors.cfg:6
-msgid "Lins-Elen Green"
-msgstr ""
-
-#. [campaign]: id=Sepulchre_of_Elran
-#: Sepulchre_of_Elran/_main.cfg:32
-msgid "SoE"
-msgstr ""
-
-#. [campaign]: id=Sepulchre_of_Elran
-#: Sepulchre_of_Elran/_main.cfg:44
-msgid "Elran was the first King of the Lintanir Elves and a renowned hero among them. Now, reports of undead sightings near his sarcophagus have caused the High Council of Elves to send a detachment of soldiers under the command of an aspiring sorceress in order to investigate. What shall they find inside?"
-msgstr ""
-
-#. [campaign]: id=Sepulchre_of_Elran
-#: Sepulchre_of_Elran/_main.cfg:44
-msgid ""
-"\n"
-"(Single-Scenario Campaign, Intermediate Level)"
-msgstr ""
-
-#. [campaign]: id=Sepulchre_of_Elran
-#: Sepulchre_of_Elran/_main.cfg:47
-msgid "Initiate"
-msgstr ""
-
-#. [campaign]: id=Sepulchre_of_Elran
-#: Sepulchre_of_Elran/_main.cfg:47
-msgid "Easy"
-msgstr ""
-
-#. [campaign]: id=Sepulchre_of_Elran
-#: Sepulchre_of_Elran/_main.cfg:48
-msgid "Sorceress"
-msgstr ""
-
-#. [campaign]: id=Sepulchre_of_Elran
-#: Sepulchre_of_Elran/_main.cfg:48
-msgid "Normal"
-msgstr ""
-
-#. [campaign]: id=Sepulchre_of_Elran
-#: Sepulchre_of_Elran/_main.cfg:49
-msgid "Mystic"
-msgstr ""
-
-#. [campaign]: id=Sepulchre_of_Elran
-#: Sepulchre_of_Elran/_main.cfg:49
-msgid "Challenging"
-msgstr ""
-
-#. [campaign]: id=Sepulchre_of_Elran
-#: Sepulchre_of_Elran/_main.cfg:51
-msgid "The End"
 msgstr ""
 
